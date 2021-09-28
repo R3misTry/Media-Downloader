@@ -1,0 +1,37 @@
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\Media Downloader.exe.config
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\Media Downloader.exe
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\Media Downloader.pdb
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\Instadown.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Drawing.Common.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\obj\Debug\Media_Downloader.Properties.Resources.resources
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\obj\Debug\Media Downloader.csproj.GenerateResource.cache
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\obj\Debug\Media Downloader.csproj.CoreCompileInputs.cache
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\obj\Debug\Media Downloader.csproj.CopyComplete
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\obj\Debug\Media Downloader.exe
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\obj\Debug\Media Downloader.pdb
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\Instances.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Buffers.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Memory.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Text.Json.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.ValueTuple.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Buffers.xml
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Memory.xml
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Text.Json.xml
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\System.ValueTuple.xml
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\libvideo.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\bin\Debug\MediaToolkit.dll
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\obj\Debug\Media Downloader.csproj.AssemblyReference.cache
+C:\Users\merts\source\repos\Media Downloader\Media Downloader\obj\Debug\Media_Downloader.MediaDownloader.resources
